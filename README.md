@@ -1,5 +1,5 @@
 #Abhinav_JavaAssignment1
-//Control Structure - Eligible for vote
+#Control Structure - Eligible for vote
 import java.util.Scanner;
 public class Abhinav_Assignment1_1 {
 	public static void main(String args[]){
