@@ -1,4 +1,4 @@
-//Abhinav_JavaAssignment1
+#Abhinav_JavaAssignment1
 //Control Structure - Eligible for vote
 import java.util.Scanner;
 public class Abhinav_Assignment1_1 {
